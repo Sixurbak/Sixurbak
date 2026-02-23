@@ -1,7 +1,7 @@
 # Décio Carrilho
 
 Desenvolvedor com certificação **AWS Solutions Architect Associate**, formado em ADS.
-Deploy Linux, automação Python e ERP Odoo 19.
+Deploy com Docker em Linux, automação Python e ERP Odoo 19.
 
 ---
 
