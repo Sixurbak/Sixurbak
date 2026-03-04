@@ -13,4 +13,4 @@ Deploy com Docker em Linux, automação Python e ERP Odoo 19.
 
 📍 Crateús, CE — Brasil  
 📬 ruandecio@gmail.com  
-🔗 [LinkedIn](https:www.linkedin.com/in/decio-carrilho) · [Portfólio](https://port-decio.vercel.app)
+🔗 [LinkedIn](https://www.linkedin.com/in/decio-carrilho) · [Portfólio](https://port-decio.vercel.app)
